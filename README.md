@@ -47,7 +47,11 @@ Execute o arquivo:
 
 python student_grades_report.py
 
+
+##################################################################################################################
+
 🇺🇸 English
+
 Student Grades Report 📚
 
 A Python program that collects student names and grades, calculates averages, and generates a final class report.
